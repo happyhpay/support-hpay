@@ -1,0 +1,597 @@
+[
+  {
+    "enName": "Albania",
+    "cnName": "阿尔巴尼亚",
+    "code": "AL"
+  },
+  {
+    "enName": "Algeria",
+    "cnName": "阿尔及利亚",
+    "code": "DZ"
+  },
+  {
+    "enName": "Angola",
+    "cnName": "安哥拉",
+    "code": "AO"
+  },
+  {
+    "enName": "Anguilla",
+    "cnName": "安圭拉",
+    "code": "AI"
+  },
+  {
+    "enName": "Antigua and Barbuda",
+    "cnName": "安提瓜和巴布达",
+    "code": "AG"
+  },
+  {
+    "enName": "Argentina",
+    "cnName": "阿根廷",
+    "code": "AR"
+  },
+  {
+    "enName": "Armenia",
+    "cnName": "亚美尼亚",
+    "code": "AM"
+  },
+  {
+    "enName": "Australia",
+    "cnName": "澳大利亚",
+    "code": "AU"
+  },
+  {
+    "enName": "Austria",
+    "cnName": "奥地利",
+    "code": "AT"
+  },
+  {
+    "enName": "Azerbaijan",
+    "cnName": "阿塞拜疆",
+    "code": "AZ"
+  },
+  {
+    "enName": "Barbados",
+    "cnName": "巴巴多斯",
+    "code": "BB"
+  },
+  {
+    "enName": "Belarus",
+    "cnName": "白俄罗斯",
+    "code": "BY"
+  },
+  {
+    "enName": "Belgium",
+    "cnName": "比利时",
+    "code": "BE"
+  },
+  {
+    "enName": "Belize",
+    "cnName": "伯利兹",
+    "code": "BZ"
+  },
+  {
+    "enName": "Benin",
+    "cnName": "贝宁",
+    "code": "BJ"
+  },
+  {
+    "enName": "Bermuda",
+    "cnName": "百慕大",
+    "code": "BM"
+  },
+  {
+    "enName": "Bhutan",
+    "cnName": "不丹",
+    "code": "BT"
+  },
+  {
+    "enName": "Bolivia",
+    "cnName": "玻利维亚",
+    "code": "BO"
+  },
+  {
+    "enName": "Botswana",
+    "cnName": "博茨瓦纳",
+    "code": "BW"
+  },
+  {
+    "enName": "Brazil",
+    "cnName": "巴西",
+    "code": "BR"
+  },
+  {
+    "enName": "British Virgin Islands",
+    "cnName": "英属维尔京群岛",
+    "code": "VG"
+  },
+  {
+    "enName": "Brunei",
+    "cnName": "文莱",
+    "code": "BN"
+  },
+  {
+    "enName": "Bulgaria",
+    "cnName": "保加利亚",
+    "code": "BG"
+  },
+  {
+    "enName": "Burkina Faso",
+    "cnName": "布基纳法索",
+    "code": "BF"
+  },
+  {
+    "enName": "Cambodia",
+    "cnName": "柬埔寨",
+    "code": "KH"
+  },
+  {
+    "enName": "Cameroon",
+    "cnName": "喀麦隆",
+    "code": "CM"
+  },
+  {
+    "enName": "Cape Verde",
+    "cnName": "佛得角",
+    "code": "CV"
+  },
+  {
+    "enName": "Chad",
+    "cnName": "乍得",
+    "code": "TD"
+  },
+  {
+    "enName": "Chile",
+    "cnName": "智利",
+    "code": "CL"
+  },
+  {
+    "enName": "Colombia",
+    "cnName": "哥伦比亚",
+    "code": "CO"
+  },
+  {
+    "enName": "Republic of the Congo",
+    "cnName": "刚果共和国",
+    "code": "CG"
+  },
+  {
+    "enName": "Costa Rica",
+    "cnName": "哥斯达黎加",
+    "code": "CR"
+  },
+  {
+    "enName": "Cote d'Ivoire",
+    "cnName": "科特迪瓦",
+    "code": "CI"
+  },
+  {
+    "enName": "Croatia",
+    "cnName": "克罗地亚",
+    "code": "HR"
+  },
+  {
+    "enName": "Czech Republic",
+    "cnName": "捷克",
+    "code": "CZ"
+  },
+  {
+    "enName": "Denmark",
+    "cnName": "丹麦",
+    "code": "DK"
+  },
+  {
+    "enName": "Dominica",
+    "cnName": "多米尼加",
+    "code": "DM"
+  },
+  {
+    "enName": "Dominican Republic",
+    "cnName": "多米尼加共和国",
+    "code": "DO"
+  },
+  {
+    "enName": "Ecuador",
+    "cnName": "厄瓜多尔",
+    "code": "EC"
+  },
+  {
+    "enName": "El Salvador",
+    "cnName": "萨尔瓦多",
+    "code": "SV"
+  },
+  {
+    "enName": "Estonia",
+    "cnName": "爱沙尼亚",
+    "code": "EE"
+  },
+  {
+    "enName": "Fiji",
+    "cnName": "斐济",
+    "code": "FJ"
+  },
+  {
+    "enName": "Finland",
+    "cnName": "芬兰",
+    "code": "FI"
+  },
+  {
+    "enName": "France",
+    "cnName": "法国",
+    "code": "FR"
+  },
+  {
+    "enName": "Gabon",
+    "cnName": "加蓬",
+    "code": "GA"
+  },
+  {
+    "enName": "Gambia",
+    "cnName": "冈比亚",
+    "code": "GM"
+  },
+  {
+    "enName": "Georgia",
+    "cnName": "格鲁吉亚",
+    "code": "GE"
+  },
+  {
+    "enName": "Germany",
+    "cnName": "德国",
+    "code": "DE"
+  },
+  {
+    "enName": "Ghana",
+    "cnName": "加纳",
+    "code": "GH"
+  },
+  {
+    "enName": "Greece",
+    "cnName": "希腊",
+    "code": "GR"
+  },
+  {
+    "enName": "Grenada",
+    "cnName": "格林纳达",
+    "code": "GD"
+  },
+  {
+    "enName": "Guatemala",
+    "cnName": "危地马拉",
+    "code": "GT"
+  },
+  {
+    "enName": "Guyana",
+    "cnName": "圭亚那",
+    "code": "GY"
+  },
+  {
+    "enName": "Honduras",
+    "cnName": "洪都拉斯",
+    "code": "HN"
+  },
+  {
+    "enName": "Hong Kong",
+    "cnName": "中国香港特别行政区",
+    "code": "HK"
+  },
+  {
+    "enName": "Hungary",
+    "cnName": "匈牙利",
+    "code": "HU"
+  },
+  {
+    "enName": "Iceland",
+    "cnName": "冰岛",
+    "code": "IS"
+  },
+  {
+    "enName": "India",
+    "cnName": "印度",
+    "code": "IN"
+  },
+  {
+    "enName": "Indonesia",
+    "cnName": "印度尼西亚",
+    "code": "ID"
+  },
+  {
+    "enName": "Ireland",
+    "cnName": "爱尔兰",
+    "code": "IE"
+  },
+  {
+    "enName": "Israel",
+    "cnName": "以色列",
+    "code": "IL"
+  },
+  {
+    "enName": "Italy",
+    "cnName": "意大利",
+    "code": "IT"
+  },
+  {
+    "enName": "Jamaica",
+    "cnName": "牙买加",
+    "code": "JM"
+  },
+  {
+    "enName": "Jordan",
+    "cnName": "约旦",
+    "code": "JO"
+  },
+  {
+    "enName": "Kazakhstan",
+    "cnName": "哈萨克斯坦",
+    "code": "KZ"
+  },
+  {
+    "enName": "Kenya",
+    "cnName": "肯尼亚",
+    "code": "KE"
+  },
+  {
+    "enName": "Korea, Republic of",
+    "cnName": "韩国",
+    "code": "KR"
+  },
+  {
+    "enName": "Kuwait",
+    "cnName": "科威特",
+    "code": "KW"
+  },
+  {
+    "enName": "Kyrgyzstan",
+    "cnName": "吉尔吉斯斯坦",
+    "code": "KG"
+  },
+  {
+    "enName": "Laos",
+    "cnName": "老挝",
+    "code": "LA"
+  },
+  {
+    "enName": "Latvia",
+    "cnName": "拉脱维亚",
+    "code": "LV"
+  },
+  {
+    "enName": "Liberia",
+    "cnName": "利比里亚",
+    "code": "LR"
+  },
+  {
+    "enName": "Lithuania",
+    "cnName": "立陶宛",
+    "code": "LT"
+  },
+  {
+    "enName": "Luxembourg",
+    "cnName": "卢森堡",
+    "code": "LU"
+  },
+  {
+    "enName": "Macao",
+    "cnName": "澳门",
+    "code": "MO"
+  },
+  {
+    "enName": "Madagascar",
+    "cnName": "马达加斯加",
+    "code": "MG"
+  },
+  {
+    "enName": "Malawi",
+    "cnName": "马拉维",
+    "code": "MW"
+  },
+  {
+    "enName": "Malaysia",
+    "cnName": "马来西亚",
+    "code": "MY"
+  },
+  {
+    "enName": "Maldives",
+    "cnName": "马尔代夫",
+    "code": "MV"
+  },
+  {
+    "enName": "Mali",
+    "cnName": "马里",
+    "code": "ML"
+  },
+  {
+    "enName": "Malta",
+    "cnName": "马耳他",
+    "code": "MT"
+  },
+  {
+    "enName": "Mauritania",
+    "cnName": "毛里塔尼亚",
+    "code": "MR"
+  },
+  {
+    "enName": "Mauritius",
+    "cnName": "毛里求斯",
+    "code": "MU"
+  },
+  {
+    "enName": "Micronesia",
+    "cnName": "密克罗尼西亚",
+    "code": "FM"
+  },
+  {
+    "enName": "Moldova",
+    "cnName": "摩尔多瓦",
+    "code": "MD"
+  },
+  {
+    "enName": "Mongolia",
+    "cnName": "蒙古",
+    "code": "MN"
+  },
+  {
+    "enName": "Montenegro",
+    "cnName": "黑山",
+    "code": "ME"
+  },
+  {
+    "enName": "Montserrat",
+    "cnName": "蒙特塞拉特",
+    "code": "MS"
+  },
+  {
+    "enName": "Morocco",
+    "cnName": "摩洛哥",
+    "code": "MA"
+  },
+  {
+    "enName": "Mozambique",
+    "cnName": "莫桑比克",
+    "code": "MZ"
+  },
+  {
+    "enName": "Namibia",
+    "cnName": "纳米比亚",
+    "code": "NA"
+  },
+  {
+    "enName": "Nauru",
+    "cnName": "瑙鲁",
+    "code": "NR"
+  },
+  {
+    "enName": "Netherlands",
+    "cnName": "荷兰",
+    "code": "NL"
+  },
+  {
+    "enName": "New Zealand",
+    "cnName": "新西兰",
+    "code": "NZ"
+  },
+  {
+    "enName": "Niger",
+    "cnName": "尼日尔",
+    "code": "NE"
+  },
+  {
+    "enName": "North Macedonia",
+    "cnName": "北马其顿",
+    "code": "MK"
+  },
+  {
+    "enName": "Norway",
+    "cnName": "挪威",
+    "code": "NO"
+  },
+  {
+    "enName": "Oman",
+    "cnName": "阿曼",
+    "code": "OM"
+  },
+  {
+    "enName": "Panama",
+    "cnName": "巴拿马",
+    "code": "PA"
+  },
+  {
+    "enName": "Papua New Guinea",
+    "cnName": "巴布亚新几内亚",
+    "code": "PG"
+  },
+  {
+    "enName": "Paraguay",
+    "cnName": "巴拉圭",
+    "code": "PY"
+  },
+  {
+    "enName": "Peru",
+    "cnName": "秘鲁",
+    "code": "PE"
+  },
+  {
+    "enName": "Philippines",
+    "cnName": "菲律宾",
+    "code": "PH"
+  },
+  {
+    "enName": "Poland",
+    "cnName": "波兰",
+    "code": "PL"
+  },
+  {
+    "enName": "Portugal",
+    "cnName": "葡萄牙",
+    "code": "PT"
+  },
+  {
+    "enName": "Qatar",
+    "cnName": "卡塔尔",
+    "code": "QA"
+  },
+  {
+    "enName": "Romania",
+    "cnName": "罗马尼亚",
+    "code": "RO"
+  },
+  {
+    "enName": "Rwanda",
+    "cnName": "卢旺达",
+    "code": "RW"
+  },
+  {
+    "enName": "São Tomé and Príncipe",
+    "cnName": "圣多美和普林西比",
+    "code": "ST"
+  },
+  {
+    "enName": "Saudi Arabia",
+    "cnName": "沙特阿拉伯",
+    "code": "SA"
+  },
+  {
+    "enName": "Senegal",
+    "cnName": "塞内加尔",
+    "code": "SN"
+  },
+  {
+    "enName": "Serbia",
+    "cnName": "塞尔维亚",
+    "code": "RS"
+  },
+  {
+    "enName": "Seychelles",
+    "cnName": "塞舌尔",
+    "code": "SC"
+  },
+  {
+    "enName": "Sierra Leone",
+    "cnName": "塞拉利昂",
+    "code": "SL"
+  },
+  {
+    "enName": "Singapore",
+    "cnName": "新加坡",
+    "code": "SG"
+  },
+  {
+    "enName": "Slovakia",
+    "cnName": "斯洛伐克",
+    "code": "SK"
+  },
+  {
+    "enName": "Slovenia",
+    "cnName": "斯洛文尼亚",
+    "code": "SI"
+  },
+  {
+    "enName": "Solomon Islands",
+    "cnName": "所罗门群岛",
+    "code": "SB"
+  },
+  {
+    "enName": "Taiwan",
+    "cnName": "台湾",
+    "code": "TW"
+  }
+]
